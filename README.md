@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=B3Y0ND3R-343&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/B3Y0ND3R-343?label=Followers&style=flat-square&color=blue" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Rishabhs343&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Rishabhs343?label=Followers&style=flat-square&color=blue" />
 </p>
 
 <!--
@@ -140,12 +140,12 @@ const rishabh = {
 ### 🔥 Streaks & activity
 
 <div align="center">
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=B3Y0ND3R-343&theme=tokyonight&hide_border=true" height="170" />
-  <img alt="Most productive time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B3Y0ND3R-343&theme=tokyonight&utcOffset=5.5" height="170" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=Rishabhs343&theme=tokyonight&hide_border=true" height="170" />
+  <img alt="Most productive time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabhs343&theme=tokyonight&utcOffset=5.5" height="170" />
 </div>
 
 <div align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=B3Y0ND3R-343&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhs343&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -153,7 +153,7 @@ const rishabh = {
 ### 🏆 Trophies
 
 <div align="center">
-  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=B3Y0ND3R-343&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
+  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rishabhs343&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
 </div>
 
 ---
@@ -161,7 +161,7 @@ const rishabh = {
 ### 🐍 Contribution graph
 
 <div align="center">
-  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/B3Y0ND3R-343/Rishabhs343/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/Rishabhs343/Rishabh/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---

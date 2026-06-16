@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabhs343&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Rishabhs343?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/Rishabhs343?label=Stars&style=flat-square&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=B3Y0ND3R-343&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/B3Y0ND3R-343?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/B3Y0ND3R-343?label=Stars&style=flat-square&color=yellow" />
 </p>
 
 ---
@@ -130,12 +130,12 @@ const rishabh = {
 ### 🔥 Streaks & activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishabhs343&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabhs343&theme=tokyonight&utcOffset=5.5" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=B3Y0ND3R-343&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B3Y0ND3R-343&theme=tokyonight&utcOffset=5.5" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhs343&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B3Y0ND3R-343&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -143,7 +143,7 @@ const rishabh = {
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabhs343&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=B3Y0ND3R-343&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
 </div>
 
 ---
@@ -151,7 +151,7 @@ const rishabh = {
 ### 🐍 Contribution graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabhs343/Rishabhs343/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/B3Y0ND3R-343/B3Y0ND3R-343/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---

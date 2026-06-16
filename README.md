@@ -150,10 +150,11 @@ const rishabh = {
 
 ---
 
-### 🏆 Trophies
+### 📊 Language breakdown
 
 <div align="center">
-  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rishabhs343&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
+  <img alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishabhs343&theme=tokyonight" height="180" />
+  <img alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishabhs343&theme=tokyonight" height="180" />
 </div>
 
 ---
